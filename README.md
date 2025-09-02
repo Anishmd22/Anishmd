@@ -10,7 +10,7 @@
 ## 🚀 My Focus
 - Building small projects to learn by doing  
 - Consistency + Discipline >> Motivation  
-- Growing step by step towards GSoC & placements  
+- Growing step by step 
 
 ---
 
